@@ -113,3 +113,16 @@ As a backend engineer, your biggest hurdle will not be the system architecture; 
 
 Your job as an Enterprise AI Engineer is to write highly defensive code around this probabilistic layer using schemas, strict guardrails, structured JSON outputs, and deterministic error-fallback graphs.
 
+┌────────────────────────────────────────────────────────┐
+│                  DAILY 2.5-HOUR ROUTINE                │
+├───────────────────────────┬────────────────────────────┤
+│   MORNING (1 HOUR)        │   EVENING (1.5 HOURS)      │
+│   Track B: Interview Prep │   Track A: Capstone Repo   │
+│   • Open LeetCode/NeetCode│   • Open your IDE.         │
+│   • Select Python 3.       │   • Do NOT watch tutorials │
+│   • Solve 1-2 problems.   │     passively.             │
+│   • Focus on writing clean│   • Read docs only to    │
+│     algorithmic logic.    │     solve tonight's task.  │
+└───────────────────────────┴────────────────────────────┘
+
+
