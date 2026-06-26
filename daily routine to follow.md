@@ -5,29 +5,6 @@
 **The Strategy:** Skip foundational backend concepts. Focus strictly on language translation (JS ➔ Python), relational databases, vector math, agentic workflow orchestration, and MLOps compute infrastructure.
 
 
-
-
-my-enterprise-ai-monorepo/
-├── apps/
-│   ├── frontend/                 # STAGE 2: Next.js 15 App Router
-│   │   ├── package.json
-│   │   └── ...
-│   ├── gateway-api/              # STAGE 2: NestJS Gateway
-│   │   ├── package.json
-│   │   └── ...
-│   └── ai-service/               # STAGE 3: FastAPI Backend
-│       ├── main.py
-│       ├── requirements.txt      # Python dependencies
-│       └── ...
-├── packages/
-│   ├── mcp-server/               # STAGE 3.5: Model Context Protocol Server
-│   └── db-prisma/                # STAGE 2: Shared Postgres Schema & Migrations
-├── docker-compose.yml            # STAGE 1: Runs Postgres, Redis, Qdrant locally
-├── turbo.json                    # STAGE 1: Turborepo orchestration configuration
-└── package.json                  # Root workspace dependencies
-
-
-
 ---
 
 ## 🧭 THE TWO PARALLEL TRACKS
