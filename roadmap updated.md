@@ -107,3 +107,20 @@
 * What to learn: Cost-based query routing between local models and commercial APIs, and treating prompt configurations as code.
 * Where to learn: [MLflow LLM Tracking Docs](https://mlflow.org) & [ByteByteGo Enterprise Architecture](https://youtube.com)
 * Source to follow: [mlflow / mlflow](https://github.com) -> Framework for managing the ML/AI lifecycle and prompt versioning.
+
+
+### STAGE 8: CLOUD DEPLOYMENT, SYSTEM DESIGN & INTERVIEW PREP
+- **Cloud Infrastructure & Orchestration:** AWS/GCP & Kubernetes
+* What to learn: Managing container orchestration at scale, horizontal pod autoscaling (HPA) for GPU-heavy workloads, and cloud security IAM policies.
+* Where to learn: [TechWorld with Nana Kubernetes Course](https://youtube.com) & [AWS Certified Solutions Architect Path](https://aws.amazon.com)
+* Source to follow: [kubernetes / kubernetes](https://github.com) -> Production-grade cluster deployment configurations and infrastructure manifests.
+
+- **AI System Design & Compute Economics:** Scale Architecture
+* What to learn: Designing full-stack data flows, calculating exact hardware VRAM requirements for model inference, analyzing throughput vs. latency tradeoffs, and estimating cloud infrastructure monthly costs.
+* Where to learn: [ByteByteGo System Design Primer](https://bytebytego.com) & [Anyscale Ray Architecture Guides](https://anyscale.com)
+* Source to follow: [ray-project / ray](https://github.com) -> Industry standard open-source framework for distributed compute and large-scale AI system design.
+
+- **Traditional SWE Fundamentals:** Algorithmic Live Coding Loops
+* What to learn: Core data structures, problem-solving paradigms (LeetCode Medium efficiency), clean architectural principles (SOLID), and standard software engineering interview filters.
+* Where to learn: [NeetCode Roadmap](https://neetcode.io) & [GeeksforGeeks Data Structures](https://geeksforgeeks.org)
+* Source to follow: [jwasham / coding-interview-university](https://github.com) -> The premier blueprint repo for passing tech company algorithmic and baseline technical interviews.
